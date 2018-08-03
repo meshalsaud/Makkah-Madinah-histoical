@@ -14,3 +14,10 @@ this project will render Makkah&Madinah historical Places
     "react-async-script-loader": "^0.3.0",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
+
+- you can see all packages in package.json
+
+## how to start?
+1. clone this repo
+2. cd into folder you clone inside
+3. npm start
